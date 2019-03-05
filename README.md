@@ -1,4 +1,4 @@
-# Starter
+# Start
 
 Welcome
 
